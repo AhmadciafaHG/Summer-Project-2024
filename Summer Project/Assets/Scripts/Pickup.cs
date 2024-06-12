@@ -3,16 +3,22 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Pickup : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+{    
+    public float rotateSpeed = 5f;
 
     // Update is called once per frame
-    void Update()
+
+    private void OnTriggerEnter(Collider other)
     {
-        
+        if(other.gameObject.CompareTag("Player"))
+        {
+            Destroy(this.gameObject);
+        }
+    }
+
+    private void Update()
+    {
+        transform.Rotate(new Vector3(15, 30, 45) * rotateSpeed * Time.deltaTime); //Every frame, make this pickup rotate
+
     }
 }
