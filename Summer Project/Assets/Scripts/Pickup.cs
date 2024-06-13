@@ -21,4 +21,9 @@ public class Pickup : MonoBehaviour
         transform.Rotate(new Vector3(15, 30, 45) * rotateSpeed * Time.deltaTime); //Every frame, make this pickup rotate
 
     }
+
+    void OnTriggerEnter(Collider collider){
+        if(collider.gameObject);
+        GameManager.Instance.UpdateScore(1);
+    }
 }
