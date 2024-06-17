@@ -6,10 +6,12 @@ public class PlayerMovement : MonoBehaviour
 {
     // Start is called before the first frame update
     public float movementSpeed = 10f;
+    private EnemyFollow enemy;
     public CharacterController controller;
     void Start()
     {
         controller = GetComponent<CharacterController>(); // Get the CharacterController component attached to the player
+        enemy = FindObjectOfType<EnemyFollow>();
     }
     void FixedUpdate()
     {
