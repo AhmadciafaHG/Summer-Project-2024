@@ -9546,3 +9546,122 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 4380.955685 seconds.
+  path: Assets/Dragon/Dragon.FBX
+  artifactKey: Guid(8eaac18273479cf4fa36fcd612157570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon/Dragon.FBX using Guid(8eaac18273479cf4fa36fcd612157570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4736bc9d105bca5b86f37f412c93ac19') in 1.084630 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/Dragon/Texture/Dragon_diffuse.tga
+  artifactKey: Guid(1bd629351fccec1478c05a9337ef5b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon/Texture/Dragon_diffuse.tga using Guid(1bd629351fccec1478c05a9337ef5b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8bfe590d0781094bdabeefca53466ee') in 0.043675 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Dragon
+  artifactKey: Guid(9c5ac552225464e23af563d21ad8dcad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon using Guid(9c5ac552225464e23af563d21ad8dcad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58fd79bdfcba1551d7946d73c5c6a315') in 0.000787 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Dragon/Texture/Dragon_normal.tga
+  artifactKey: Guid(fe35bca53be0dd44aa31a36c61dbd974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon/Texture/Dragon_normal.tga using Guid(fe35bca53be0dd44aa31a36c61dbd974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfdea7564ab8e38ca0a82c4835fb8694') in 0.026826 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Dragon/Texture/Dragon_diffuse.psd
+  artifactKey: Guid(8a666551ac46816409a16a171c13a3ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon/Texture/Dragon_diffuse.psd using Guid(8a666551ac46816409a16a171c13a3ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06721aca2b93a2d48eb1fed9585b849b') in 0.010775 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 7.108021 seconds.
+  path: Assets/Dragon/Materials
+  artifactKey: Guid(58890dae4026f4e888b53ed5a95f3c15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon/Materials using Guid(58890dae4026f4e888b53ed5a95f3c15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bce1cc5d210521b668ad1e0d3fcd3a90') in 0.004947 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.038030 seconds.
+  path: Assets/Dragon/Materials/default.mat
+  artifactKey: Guid(12dafeb7b50044ccba446e77d19d992f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon/Materials/default.mat using Guid(12dafeb7b50044ccba446e77d19d992f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf1ae54e4bd2dbd45033390460f552c5') in 0.075987 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 3.132687 seconds.
+  path: Assets/Dragon/Texture
+  artifactKey: Guid(f8c56bf7a221d4d89924fdf968ba77f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dragon/Texture using Guid(f8c56bf7a221d4d89924fdf968ba77f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '611ddf4a3e458bcfe0566b991664a29b') in 0.002604 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 9.480794 seconds.
+  path: Assets/Cabin/Terrain/ground.png
+  artifactKey: Guid(587887904fc94d54cb72cd4f158dfaa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cabin/Terrain/ground.png using Guid(587887904fc94d54cb72cd4f158dfaa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24cf1e289c4f9c6fb8a8b27ada019549') in 0.043312 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Cabin/Terrain/terrain.asset
+  artifactKey: Guid(c3efb4f4cf372834ea40068955c091e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cabin/Terrain/terrain.asset using Guid(c3efb4f4cf372834ea40068955c091e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed2809ee3872b29c504788e72a739b67') in 0.184852 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16d7b3000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.993 seconds
+Callback registration failed. Increase kMaxCallback.
+Fatal Error! Callback registration failed. Increase kMaxCallback.
+Obtained 31 stack frames.
+#0  0x0000018d01aa60 in __pthread_kill
+#1  0x20780018cf5fa30 in abort
+#2  0xcc2600010522327c in __cxx_global_var_init.3
+#3  0x00000103dfd72c in EditorMonoConsole::LogToConsoleImplementation(CppLogEntry&)
+#4  0x00000103dfd37c in EditorMonoConsole::LogToConsoleImplementation(DebugStringToFileData const&)
+#5  0x00000103dfebc0 in LogToConsoleImplementation(DebugStringToFileData const&)
+#6  0x00000104b6cba0 in DebugStringToFilePostprocessedStacktrace(DebugStringToFileData const&)
+#7  0x00000104b6d474 in DebugStringToFile(DebugStringToFileData const&)
+#8  0x00000103871cf0 in CallbackArrayBase<void (*)(BuildTargetPlatform), void (*)(void const*, BuildTargetPlatform)>::Register(void (*)(BuildTargetPlatform), void (*)(void const*, BuildTargetPlatform), void const*)
+#9  0x000001043120e4 in LoadDomainAndUserAssemblies()
+#10 0x00000104313ca8 in LoadUserAssemblies()
+#11 0x000001047e3300 in AssetImportWorkerClient::ReloadMonoDomain(AssetResolver&)
+#12 0x000001047eec34 in invocation function for block in AssetImportWorkerClient::HandleMessage(PrepareMessage const&)::$_4::operator()() const
+#13 0x0000018cea23e8 in _dispatch_client_callout
+#14 0x3c3b80018ceb19b0 in _dispatch_async_and_wait_invoke
+#15 0x6c0d00018cea23e8 in _dispatch_client_callout
+#16 0x204500018ceb0bb8 in _dispatch_main_queue_drain
+#17 0xd25400018ceb07cc in _dispatch_main_queue_callback_4CF
+#18 0x763f80018d173ad4 in __CFRUNLOOP_IS_SERVICING_THE_MAIN_DISPATCH_QUEUE__
+#19 0x7d6f80018d131258 in __CFRunLoopRun
+#20 0xcc5e00018d130434 in CFRunLoopRunSpecific
+#21 0x2b380001978d419c in RunCurrentEventLoopInMode
+#22 0xc54c8001978d3fd8 in ReceiveNextEventCommon
+#23 0x67270001978d3d30 in _BlockUntilNextEventMatchingListInModeWithFilter
+#24 0x3f4b00019098fd68 in _DPSNextEvent
+#25 0x9c16000191185808 in -[NSApplication(NSEventRouting) _nextEventMatchingEventMask:untilDate:inMode:dequeue:]
+#26 0xac1e80019098309c in -[NSApplication run]
+#27 0x313780019095a2e0 in NSApplicationMain
+#28 0x6c63000105248e5c in EditorMain(int, char const**)
+#29 0x000001052491a8 in main
+#30 0x0000018ccca0e0 in start
