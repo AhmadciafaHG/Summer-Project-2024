@@ -1,4 +1,3 @@
-
 using UnityEngine;
 using UnityEngine.AI;
 public class EnemyFollow : MonoBehaviour
@@ -24,6 +23,7 @@ public class EnemyFollow : MonoBehaviour
        {
            // Despawn the player, and tell the GameManager to reset the current level
            targetPrefab.SetActive(false);
+           AudioManager.Instance.PlaySound("Player Death"); // Tell the AudioManger to play the SFX for the player dying.
            GameManager.Instance.GameOver();
        }
    }
